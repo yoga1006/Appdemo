@@ -13,6 +13,7 @@
 		049699F9281803D700E01E4A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049699F7281803D700E01E4A /* Main.storyboard */; };
 		049699FB281803DB00E01E4A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049699FA281803DB00E01E4A /* Assets.xcassets */; };
 		049699FE281803DB00E01E4A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049699FC281803DB00E01E4A /* LaunchScreen.storyboard */; };
+		04969A06281932AE00E01E4A /* MySnowParticle.sks in Resources */ = {isa = PBXBuildFile; fileRef = 04969A05281932AE00E01E4A /* MySnowParticle.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		049699FA281803DB00E01E4A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		049699FD281803DB00E01E4A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		049699FF281803DB00E01E4A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04969A05281932AE00E01E4A /* MySnowParticle.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = MySnowParticle.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				049699F1281803D700E01E4A /* AppDelegate.swift */,
 				049699F3281803D700E01E4A /* SceneDelegate.swift */,
 				049699F5281803D700E01E4A /* ViewController.swift */,
+				04969A05281932AE00E01E4A /* MySnowParticle.sks */,
 				049699F7281803D700E01E4A /* Main.storyboard */,
 				049699FA281803DB00E01E4A /* Assets.xcassets */,
 				049699FC281803DB00E01E4A /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 			files = (
 				049699FE281803DB00E01E4A /* LaunchScreen.storyboard in Resources */,
 				049699FB281803DB00E01E4A /* Assets.xcassets in Resources */,
+				04969A06281932AE00E01E4A /* MySnowParticle.sks in Resources */,
 				049699F9281803D700E01E4A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
